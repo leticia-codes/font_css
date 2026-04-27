@@ -1,0 +1,35 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Cinzel:wght@400..900&display=swap');
+@import url('https://fonts.cdnfonts.com/css/minecraft-4');
+@import url('https://fonts.cdnfonts.com/css/ninja-naruto');
+@import url('https://fonts.cdnfonts.com/css/pocoyo-tv');
+/*importação de font do google*/
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+h1{
+    font-family: "Cinzel Decorative", serif;
+    font-weight: 400;
+    font-size: 60px ;
+}
+h2{
+    font-family: 'Minecraft', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+h3{
+    font-family: 'Ninja Naruto', sans-serif;
+    font-size: 50px;
+    text-align: center;
+} 
+h4{
+    font-family: 'POCOYO TV', sans-serif;
+    font-size: 50px;
+    text-align: center;
+} 
+p{
+    font-family: "cinzel", serif;
+    font-size: 40px;
+}
